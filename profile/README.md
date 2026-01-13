@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/vexar-app/.github/main/profile/assets/screenshot-4.jpg" width="100%" alt="Kurulum">
+        <img src="https://raw.githubusercontent.com/vexar-app/.github/main/profile/assets/screenshot-1.jpg" width="100%" alt="Kurulum">
         <br><strong>Otomatik Kurulum</strong>
       </td>
       <td align="center" width="25%">
@@ -44,7 +44,7 @@
         <br><strong>Tek Tıkla Hazır</strong>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/vexar-app/.github/main/profile/assets/screenshot-1.jpg" width="100%" alt="Bağlı">
+        <img src="https://raw.githubusercontent.com/vexar-app/.github/main/profile/assets/screenshot-4.jpg" width="100%" alt="Bağlı">
         <br><strong>Güvenli Bağlantı</strong>
       </td>
     </tr>
